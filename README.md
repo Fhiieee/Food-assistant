@@ -27,3 +27,9 @@ Food Assistant adalah aplikasi web sederhana berbasis Laravel yang digunakan unt
 
 ```bash
 git clone link-repository-kamu
+
+## Tampilan Aplikasi
+
+Berikut adalah tampilan halaman utama aplikasi Food Assistant.
+
+![Tampilan Food Assistant](public/screenshot.png)
